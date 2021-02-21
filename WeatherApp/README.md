@@ -1,6 +1,6 @@
 # Description
 
-This weather app was inspired by Dad who is a meteorologist.  The app is supposed to retrieve the user's location and show the current temperature.  Depending on the weather, the apps background image will change accordingly.
+This weather app was inspired by my dad who is a meteorologist.  The app is supposed to retrieve the user's location and show the current temperature.  Depending on the weather, the apps background image will change accordingly.
 
 # What I learned
 
