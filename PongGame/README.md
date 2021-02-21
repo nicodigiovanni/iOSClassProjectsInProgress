@@ -1,6 +1,6 @@
 # Description 
 
-Similar to ping pong and tennis, Pong is a game where the main objective is to hit a ball at your opponent with the goal of making them miss.  When comlete, pong will be able to be played at various difficulties along with having a working scoreboard and tournament bracket.
+Similar to ping pong and tennis, Pong is a game where the main objective is to hit a ball at your opponent with the goal of making them miss.  When comlete, Pong will be able to be played at various difficulties along with having a working scoreboard and tournament bracket.
 
 # What I am learning
 
